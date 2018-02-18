@@ -1,6 +1,6 @@
-# botpress-telegram
+# botpress-bale
 
-Official Telegram connector for Botpress. This module has been built to accelerate and facilitate development of Telegram bots.
+Official bale connector for Botpress. This module has been built to accelerate and facilitate development of bale bots.
 
 ## Contribution
 
@@ -11,7 +11,7 @@ Botpress Team would really appreciate to have some help from the community to wo
 Installing modules on Botpress is simple. By using CLI, users only need to type this command in their terminal to add messenger module to their bot.
 
 ```js
-botpress install telegram // Not publish yet on NPM
+botpress install bale // Not publish yet on NPM
 ```
 
 ## Get started
@@ -21,7 +21,7 @@ To setup connexion of your chatbot to Messenger, you need to fill the connexion 
 botfile.js
 ```js
 config: {
-    'botpress-telegram': {
+    'botpress-bale': {
       botToken: '451660170:AAHM2CD-Z8Kt3AwqcQLnaUgIk5bUJay3s0M',
     }
   }```
@@ -35,4 +35,4 @@ Get an invite and join us now! 👉[https://slack.botpress.io](https://slack.bot
 
 ## License
 
-botpress-telegram is licensed under AGPLv3.
+botpress-bale is licensed under AGPLv3.
